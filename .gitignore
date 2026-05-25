@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env
+
+# Django
+db.sqlite3
+*.log
+staticfiles/
+media/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Migrations cache
+*/__pycache__/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# coverage
+htmlcov/
+.coverage
+
+# build
+dist/
+build/
+
+# node
+node_modules/
